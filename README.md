@@ -15,11 +15,11 @@
 
   **Set User Name Global**
 
-    git config --global user.name {seu.user.name}
+    git config --global user.name {your.user.name}
     
   **Set User Email Global**
 
-    git config --global user.email	{seu.user.email}
+    git config --global user.email	{your.user.email}
     
   **Check GitHub User**
 
@@ -27,11 +27,11 @@
     
   **Set SSH Agent**
 
-    ssh-keygen -t ed25519 -C "{seu.user.email}"
+    ssh-keygen -t ed25519 -C "{your.user.email}"
     
   **Set SSH Agent**
 
-    ssh-keygen -t ed25519 -C "{seu.user.email}"
+    ssh-keygen -t ed25519 -C "{your.user.email}"
 
   **Set SSH Agent 'No algorithm support Ed25519'** 
   
